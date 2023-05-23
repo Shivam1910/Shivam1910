@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **sf-solutions**
 
-- 👨‍💻 All of my projects are available at [[https://shivam1910.github.io/myPortfolio/](https://github.com/Shivam1910?tab=repositories)](https://shivam1910.github.io/myPortfolio/)
+- 👨‍💻 All of my projects are available at (https://github.com/Shivam1910?tab=repositories)
 
 - 💬 Ask me about **react, node, postgres**
 
