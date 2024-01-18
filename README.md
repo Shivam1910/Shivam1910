@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, node, postgres**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:shivam04.shrivastava@gmail.com</h3>
 <p align="left">
 </p>
 
